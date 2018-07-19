@@ -1,0 +1,60 @@
+{"basics":{
+  "image":"abc.jpg",
+  "name":"Deepika Bolla",
+  "phoneno":"9999999999",
+  "email":"deepika.bolla7j@gmail.com",
+  "Address1":"Address",
+  "Address":"SRKR Engineering college,Bhimavaram."
+
+},
+"CareerObjective":{
+  "career":"CareerObjective:",
+ "info":"To pursue a challenging career."
+},
+"education":[
+{
+  "degree":"B-tech",
+  "institute":"SRKR College",
+  "duration":"[2017-2021,79%]",
+  "branch":"Information Technology"
+},
+  {
+    "degree":"Intermediate",
+    "institute":"Aditya college",
+    "duration":"[2015-2017,90%]",
+    "branch":"MPC"
+    },
+{
+  "degree":"SSC",
+  "institute":"Aditya school",
+  "duration":"[2014-2015,90%]",
+  "branch":"EM"
+}
+],
+ "skills":[
+ {
+   "title":"languages",
+   "data":["c","c++","javascript","php"]
+ },
+ {
+   "title":"database",
+   "data":["mysql","sql","oracle"]
+ },
+ {
+   "title":"operating systems",
+   "data":["windows","ubuntu","Ios"]
+ }
+],
+
+"achievements":[
+  {
+  "title":"certificates",
+  "data":["cisco certificate","arduino certificate","ppt certificate","workshop certificate"]
+  },
+{
+  "title":"prizes",
+  "data":["first prize in group discussion","first prize in debate","first in academics"]
+}
+
+]
+}
